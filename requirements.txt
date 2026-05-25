@@ -1,0 +1,8 @@
+Flask
+langchain-google-genai
+langchain
+langgraph
+psycopg_pool
+requests
+python-dotenv
+gunicorn

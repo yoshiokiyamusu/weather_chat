@@ -1,0 +1,29 @@
+# Ignore the environment variables file containing your GOOGLE_GEMINI_KEY and SUPABASE_DB_URL
+.env
+
+# Ignore your python virtual environment folder
+py_env_yoshio_auto1/
+.venv/
+venv/
+
+# Ignore Python cache files (compiled bytecode)
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files (if you use VS Code or PyCharm)
+.vscode/
+.idea/
+
+#ignore my notes
+note.txt
+
+
+#ignore my random python files that I used in other projects
+memory_chat.py
+intro_ia.py
+intro_agent.py
+garbage_bin.png
+d_contexto.txt
+checkpoints.db
+chat_api.py
+
