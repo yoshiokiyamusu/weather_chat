@@ -2,7 +2,9 @@ Flask
 langchain-google-genai
 langchain
 langgraph
+langgraph-checkpoint-postgres
 psycopg_pool
+psycopg[binary]
 requests
 python-dotenv
 gunicorn
